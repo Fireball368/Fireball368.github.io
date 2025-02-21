@@ -1,0 +1,27 @@
+*{
+    font-family: monospace;
+}
+table {
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 550px;
+   
+   
+}
+td, tr, th {
+    padding: 10px;
+    border: 1px solid #333;
+    text-align: left;
+}
+h1{
+    text-align: center;
+    color: #333;
+    font-size: 2em;
+    margin: 10px;
+    padding: 10px;
+}
+thead{
+    background-color: #802525;
+    color: #fff;
+    
+}
